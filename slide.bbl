@@ -1,0 +1,132 @@
+\begin{thebibliography}{10}
+
+\bibitem{ren2023collaborative}
+Shunli Ren, Siheng Chen, and Wenjun Zhang.
+\newblock Collaborative perception for autonomous driving: Current status and
+  future trend.
+\newblock In {\em Proceedings of 2021 5th Chinese Conference on Swarm
+  Intelligence and Cooperative Control}, pages 682--692. Springer, 2023.
+
+\bibitem{caillot2022survey}
+Antoine Caillot, Safa Ouerghi, Pascal Vasseur, R{\'e}mi Boutteau, and Yohan
+  Dupuis.
+\newblock Survey on cooperative perception in an automotive context.
+\newblock {\em IEEE Transactions on Intelligent Transportation Systems}, 2022.
+
+\bibitem{xu2022opv2v}
+Runsheng Xu, Hao Xiang, Xin Xia, Xu~Han, Jinlong Li, and Jiaqi Ma.
+\newblock Opv2v: An open benchmark dataset and fusion pipeline for perception
+  with vehicle-to-vehicle communication.
+\newblock In {\em 2022 International Conference on Robotics and Automation
+  (ICRA)}, pages 2583--2589. IEEE, 2022.
+
+\bibitem{xu2021opencda}
+Runsheng Xu, Yi~Guo, Xu~Han, Xin Xia, Hao Xiang, and Jiaqi Ma.
+\newblock Opencda: an open cooperative driving automation framework integrated
+  with co-simulation.
+\newblock In {\em 2021 IEEE International Intelligent Transportation Systems
+  Conference (ITSC)}, pages 1155--1162. IEEE, 2021.
+
+\bibitem{xu2022v2x}
+Runsheng Xu, Hao Xiang, Zhengzhong Tu, Xin Xia, Ming-Hsuan Yang, and Jiaqi Ma.
+\newblock V2x-vit: Vehicle-to-everything cooperative perception with vision
+  transformer.
+\newblock {\em arXiv preprint arXiv:2203.10638}, 2022.
+
+\bibitem{chen2019cooper}
+Qi~Chen, Sihai Tang, Qing Yang, and Song Fu.
+\newblock Cooper: Cooperative perception for connected autonomous vehicles
+  based on 3d point clouds.
+\newblock In {\em 2019 IEEE 39th International Conference on Distributed
+  Computing Systems (ICDCS)}, pages 514--524. IEEE, 2019.
+
+\bibitem{F-Cooper}
+Qi~Chen, Xu~Ma, Sihai Tang, Jingda Guo, Qing Yang, and Song Fu.
+\newblock F-cooper: Feature based cooperative perception for autonomous vehicle
+  edge computing system using 3d point clouds.
+\newblock In {\em Proceedings of the 4th ACM/IEEE Symposium on Edge Computing},
+  SEC '19, page 88–100, New York, NY, USA, 2019. Association for Computing
+  Machinery.
+
+\bibitem{ITS_early}
+Eduardo Arnold, Mehrdad Dianati, Robert de~Temple, and Saber Fallah.
+\newblock Cooperative perception for 3d object detection in driving scenarios
+  using infrastructure sensors.
+\newblock {\em IEEE Transactions on Intelligent Transportation Systems},
+  23(3):1852--1864, 2022.
+
+\bibitem{wang2020v2vnet}
+Tsun-Hsuan Wang, Sivabalan Manivasagam, Ming Liang, Bin Yang, Wenyuan Zeng, and
+  Raquel Urtasun.
+\newblock V2vnet: Vehicle-to-vehicle communication for joint perception and
+  prediction.
+\newblock In {\em European Conference on Computer Vision}, pages 605--621.
+  Springer, 2020.
+
+\bibitem{liu2020who2com}
+Yen-Cheng Liu, Junjiao Tian, Chih-Yao Ma, Nathan Glaser, Chia-Wen Kuo, and
+  Zsolt Kira.
+\newblock Who2com: Collaborative perception via learnable handshake
+  communication.
+\newblock In {\em 2020 IEEE International Conference on Robotics and Automation
+  (ICRA)}, pages 6876--6883. IEEE, 2020.
+
+\bibitem{liu2020when2com}
+Yen-Cheng Liu, Junjiao Tian, Nathaniel Glaser, and Zsolt Kira.
+\newblock When2com: Multi-agent perception via communication graph grouping.
+\newblock In {\em Proceedings of the IEEE/CVF Conference on computer vision and
+  pattern recognition}, pages 4106--4115, 2020.
+
+\bibitem{li2021learning}
+Yiming Li, Shunli Ren, Pengxiang Wu, Siheng Chen, Chen Feng, and Wenjun Zhang.
+\newblock Learning distilled collaboration graph for multi-agent perception.
+\newblock {\em Advances in Neural Information Processing Systems},
+  34:29541--29552, 2021.
+
+\bibitem{hu_where2comm_2022}
+Yue Hu, Shaoheng Fang, Zixing Lei, Yiqi Zhong, and Siheng Chen.
+\newblock Where2comm: Communication-efficient collaborative perception via
+  spatial confidence maps.
+\newblock In {\em Neural Information Processing Systems (NeurIPS)}, December
+  2022.
+
+\bibitem{lei2022latency}
+Zixing Lei, Shunli Ren, Yue Hu, Wenjun Zhang, and Siheng Chen.
+\newblock Latency-aware collaborative perception.
+\newblock {\em arXiv preprint arXiv:2207.08560}, 2022.
+
+\bibitem{transformer}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N Gomez, \L~ukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock In I.~Guyon, U.~Von Luxburg, S.~Bengio, H.~Wallach, R.~Fergus,
+  S.~Vishwanathan, and R.~Garnett, editors, {\em Advances in Neural Information
+  Processing Systems}, volume~30. Curran Associates, Inc., 2017.
+
+\bibitem{CommNet}
+Sainbayar Sukhbaatar, arthur szlam, and Rob Fergus.
+\newblock Learning multiagent communication with backpropagation.
+\newblock In D.~Lee, M.~Sugiyama, U.~Luxburg, I.~Guyon, and R.~Garnett,
+  editors, {\em Advances in Neural Information Processing Systems}, volume~29.
+  Curran Associates, Inc., 2016.
+
+\bibitem{VAIN}
+Yedid Hoshen.
+\newblock Vain: Attentional multi-agent predictive modeling.
+\newblock In I.~Guyon, U.~Von Luxburg, S.~Bengio, H.~Wallach, R.~Fergus,
+  S.~Vishwanathan, and R.~Garnett, editors, {\em Advances in Neural Information
+  Processing Systems}, volume~30. Curran Associates, Inc., 2017.
+
+\bibitem{Li_2021_RAL}
+Yiming Li, Dekun Ma, Ziyan An, Zixun Wang, Yiqi Zhong, Siheng Chen, and Chen
+  Feng.
+\newblock V2x-sim: A virtual collaborative perception dataset and benchmark for
+  autonomous driving.
+\newblock 2022.
+
+\bibitem{hinton2015distilling}
+Geoffrey Hinton, Oriol Vinyals, and Jeff Dean.
+\newblock Distilling the knowledge in a neural network (2015).
+\newblock {\em arXiv preprint arXiv:1503.02531}, 2, 2015.
+
+\end{thebibliography}
